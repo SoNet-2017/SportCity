@@ -83,7 +83,7 @@ header p {
     left: 0;
     right: 50%;
     height: 50px;
-    margin-right: -382px;
+    margin-right: -700px;
     position: fixed;
     top: 115px;
     background: #ffcc00;
@@ -152,7 +152,7 @@ a {
 
 
 section {
-    width: 590px;
+    width: 800px;
     padding: 30px 30px 50px 30px;
     margin: 20px 0;
     margin-top: 190px;
